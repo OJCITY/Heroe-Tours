@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+h1 {
+  color: rgb(156, 118, 24);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+body {
+  background-color: rgb(152, 162, 162);
+}
+
+h2 {
+  color: rgb(130, 119, 22);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
